@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Lab1_3\Lab1_3\bin\Debug\Lab1_3.exe.config
+C:\Users\User\Desktop\Lab1_3\Lab1_3\bin\Debug\Lab1_3.exe
+C:\Users\User\Desktop\Lab1_3\Lab1_3\bin\Debug\Lab1_3.pdb
+C:\Users\User\Desktop\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab1_3\Lab1_3\obj\Debug\Lab1_3.exe
+C:\Users\User\Desktop\Lab1_3\Lab1_3\obj\Debug\Lab1_3.pdb
+C:\Users\User\Desktop\Об'єктно-Орієнтоване Програмування\Семестр 2\Лаб_1\Лаб1_3\Lab1_3\Lab1_3\bin\Debug\Lab1_3.exe.config
+C:\Users\User\Desktop\Об'єктно-Орієнтоване Програмування\Семестр 2\Лаб_1\Лаб1_3\Lab1_3\Lab1_3\bin\Debug\Lab1_3.exe
+C:\Users\User\Desktop\Об'єктно-Орієнтоване Програмування\Семестр 2\Лаб_1\Лаб1_3\Lab1_3\Lab1_3\bin\Debug\Lab1_3.pdb
+C:\Users\User\Desktop\Об'єктно-Орієнтоване Програмування\Семестр 2\Лаб_1\Лаб1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Об'єктно-Орієнтоване Програмування\Семестр 2\Лаб_1\Лаб1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.exe
+C:\Users\User\Desktop\Об'єктно-Орієнтоване Програмування\Семестр 2\Лаб_1\Лаб1_3\Lab1_3\Lab1_3\obj\Debug\Lab1_3.pdb
